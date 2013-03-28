@@ -10,6 +10,13 @@ require 'spec_helper'
 #     end
 #   end
 # end
+
+=begin
+
+This was built for me, not sure if i should delete it?
+
 describe StaticPagesHelper do
   pending "add some examples to (or delete) #{__FILE__}"
 end
+
+=end
